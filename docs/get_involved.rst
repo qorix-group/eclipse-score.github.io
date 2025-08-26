@@ -31,7 +31,7 @@ If you want to get into contact with SCORE, these are your primary entry points:
 
 .. note::
     You need to be a member of the Eclipse SDV Working Group Slack to access this channel.
-    If you are not a member yet, please `join here <https://join.slack.com/t/sdvworkinggroup/shared_invite/zt-1yxo8mejp-aul08kAuuOwi2LRbSXvCTw>`_.
+    If you are not a member yet, please `go here <https://sdv.eclipse.org/get-engaged/>`_ and choose "Join Workspace".
 
 | **General Information / Alignment regarding SCORE as a basis for distributions & products:** 
 | Contact one of the project leads of SCORE https://projects.eclipse.org/projects/automotive.score/who
